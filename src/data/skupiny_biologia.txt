@@ -1,0 +1,23 @@
+ROZDELENIE OTÁZOK Z BIOLÓGIE PODĽA TÉM
+
+1–7: Úvod do biológie a biologické vedy
+8–23: Vlastnosti živých sústav a chemické zloženie bunky
+24–75: Stavba bunky a bunkové organely
+76–85: Tkanivá a fyziológia organizmov
+86–114: Transport látok, metabolizmus a enzýmy
+115–162: Bunkový cyklus, delenie a rozmnožovanie
+163–258: Molekulárna genetika – DNA, RNA a proteosyntéza
+259–521: Klasická, humánna a populačná genetika
+522–588: Mikrobiológia, vírusy, parazity a imunita
+589–600: Vylučovacia sústava
+601–624: Hormonálna (endokrinná) sústava
+625–672: Nervová sústava, reflexy a zmysly
+673–728: Rozmnožovanie človeka, vývin a životné obdobia
+729–774: Koža a kostrová sústava
+775–805: Svalová sústava
+806–867: Tráviaca sústava, výživa a vitamíny
+868–878: Dýchacia sústava
+879–940: Krv, miazga, srdce a krvný obeh
+941–1000: Ekológia, evolúcia človeka a ochrana životného prostredia
+
+Poznámka: V zdrojovom súbore chýba otázka s ID 402, preto obsahuje 999 otázok.
